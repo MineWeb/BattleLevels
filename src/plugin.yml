@@ -1,0 +1,6 @@
+name: BattleLevelsMineWeb
+main: fr.phpierre.battlelevelsmineweb.Core
+version: 1.0.0
+description: Add methods to MinewebBridge plugin
+author: PHPierre
+depend: [MinewebBridge, BattleLevels]
